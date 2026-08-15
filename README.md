@@ -1,15 +1,15 @@
 ### 💫 About Me:
-🎯 I'm currently working on: Building a data analysis & AI portfolio | Freelancing on Upwork & Fiverr
+**🎯 I'm currently working on:** Building a data analysis & AI portfolio | Freelancing on Upwork & Fiverr
 <br>
-🤝 I'm looking to collaborate on: Data cleaning, web scraping, data analysis, and LLM/RAG-based AI projects
+**🤝 I'm looking to collaborate on:** Data cleaning, web scraping, data analysis, and LLM/RAG-based AI projects
 <br>
-💛 I'm looking for help with: Real-world AI/ML project ideas and best practices in production data pipeline design
+**💛 I'm looking for help with:** Real-world AI/ML project ideas and best practices in production data pipeline design
 <br>
-🌱 I'm currently learning: Python, Pandas, NumPy, Seaborn, BeautifulSoup, Selenium, LangChain, and RAG (Full Stack AI Bootcamp)
+**🌱 I'm currently learning:** Python, Pandas, NumPy, Seaborn, BeautifulSoup, Selenium, LangChain, and RAG (Full Stack AI Bootcamp)
 <br>
-💬 Ask me about: Data cleaning, Python automation, web scraping, machine learning, or breaking into freelance data analysis
+**💬 Ask me about:** Data cleaning, Python automation, web scraping, machine learning, or breaking into freelance data analysis
 <br>
-⚡ Fun fact: I believe every dataset has a story hiding in it — my job is just to stop it from lying to you.
+**⚡ Fun fact:** I believe every dataset has a story hiding in it — my job is just to stop it from lying to you.
 
 
 ## 🌐 Socials:
